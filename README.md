@@ -19,9 +19,8 @@
 
 ## Пример работы 
 
+![image](https://github.com/user-attachments/assets/e61ef921-70dc-43bf-83b4-524910438804)
 
-![image](https://github.com/user-attachments/assets/53045922-68af-4e6c-999d-4f80bcc2ffad)
+![image](https://github.com/user-attachments/assets/714b66af-d498-4cbe-a76a-6e8792d9ef49)
 
-![image](https://github.com/user-attachments/assets/04a6ba40-6698-4207-855c-bcc732b59368)
-
-![image](https://github.com/user-attachments/assets/5d71dd4f-6566-422b-b982-f700457395ea)
+![image](https://github.com/user-attachments/assets/1c9ff997-8896-431f-8baf-9da97dc9f689)
